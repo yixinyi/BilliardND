@@ -1,7 +1,7 @@
 # BilliardND
 N-dimensional billiard with point-like particle and elastic scattering
 
-* *SinaiND.hs* is a module with functions that computes the collision of a point-like ball with the billiard walls. Rectangular, Sinai and elliptic Sinai billiards are covered.
+* *SinaiND.hs* is a module with functions that compute a sequence of collisions of the ball with the billiard walls. Rectangular, Sinai and elliptic Sinai billiards are covered and generalized to any dimension.
 
 * *Collisions.hs* is a module that studies the set of collisions returned by billiard functions from *SinaiND* module
 
