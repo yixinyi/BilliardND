@@ -1,0 +1,2 @@
+# BilliardND
+N-dimensional billiard 
